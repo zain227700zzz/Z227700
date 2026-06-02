@@ -1,0 +1,10 @@
+body {
+   /* تدرج لوني هادئ من الأزرق الداكن إلى الفاتح */
+   background: linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%);
+   background-attachment: fixed;
+   /* لجعل الخلفية ثابتة عند التمرير */
+   margin: 0;
+   padding: 20px;
+   display: flex;
+   justify-content: center;
+}
